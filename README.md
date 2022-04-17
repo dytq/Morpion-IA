@@ -24,3 +24,5 @@ int choisir_case(int *grille, struct joueur *joueur,
   return -1;
 }
 ```
+# auteur 
+Dedarally Taariq
